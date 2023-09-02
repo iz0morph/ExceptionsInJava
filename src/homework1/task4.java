@@ -9,6 +9,7 @@ public class task4 {
     // пустые строки вводить нельзя.
     public static void main(String[] args) throws Exception {
         readLine();
+
     }
 
     public static void readLine() throws Exception {
